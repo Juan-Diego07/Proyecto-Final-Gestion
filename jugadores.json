@@ -1,0 +1,454 @@
+{
+  "jugadores": [
+    {
+      "nombre": "Lionel Messi",
+      "edad": 34,
+      "altura": "1.70m",
+      "peso": "72kg",
+      "clubes": ["Barcelona", "PSG"],
+      "premios": ["Ballon d'Or", "FIFA World Player"],
+      "goles": 700
+    },
+    {
+      "nombre": "Cristiano Ronaldo",
+      "edad": 36,
+      "altura": "1.87m",
+      "peso": "83kg",
+      "clubes": ["Sporting CP", "Manchester United", "Real Madrid", "Juventus", "Al Nassr"],
+      "premios": ["Ballon d'Or", "FIFA World Player"],
+      "goles": 750
+    },
+    {
+      "nombre": "Neymar Jr",
+      "edad": 29,
+      "altura": "1.75m",
+      "peso": "68kg",
+      "clubes": ["Santos", "Barcelona", "PSG"],
+      "premios": ["South American Footballer of the Year"],
+      "goles": 400
+    },
+    {
+      "nombre": "Kylian Mbappe",
+      "edad": 22,
+      "altura": "1.78m",
+      "peso": "73kg",
+      "clubes": ["Monaco", "PSG"],
+      "premios": ["Golden Boy", "Kopa Trophy"],
+      "goles": 150
+    },
+    {
+      "nombre": "Robert Lewandowski",
+      "edad": 33,
+      "altura": "1.84m",
+      "peso": "80kg",
+      "clubes": ["Lech Poznan", "Borussia Dortmund", "Bayern Munich"],
+      "premios": ["Best FIFA Men's Player"],
+      "goles": 550
+    },
+    {
+      "nombre": "Zlatan Ibrahimovic",
+      "edad": 39,
+      "altura": "1.95m",
+      "peso": "95kg",
+      "clubes": ["Malmo", "Ajax", "Juventus", "Inter Milan", "Barcelona", "AC Milan", "PSG", "Manchester United", "LA Galaxy"],
+      "premios": ["Golden Foot"],
+      "goles": 500
+    },
+    {
+      "nombre": "Luka Modric",
+      "edad": 35,
+      "altura": "1.72m",
+      "peso": "66kg",
+      "clubes": ["Dinamo Zagreb", "Tottenham Hotspur", "Real Madrid"],
+      "premios": ["Ballon d'Or", "FIFA World Cup Golden Ball"],
+      "goles": 100
+    },
+    {
+      "nombre": "Sergio Ramos",
+      "edad": 35,
+      "altura": "1.84m",
+      "peso": "82kg",
+      "clubes": ["Sevilla", "Real Madrid", "PSG"],
+      "premios": ["FIFA FIFPro World XI"],
+      "goles": 100
+    },
+    {
+      "nombre": "Kevin De Bruyne",
+      "edad": 30,
+      "altura": "1.81m",
+      "peso": "70kg",
+      "clubes": ["Genk", "Chelsea", "Werder Bremen", "Wolfsburg", "Manchester City"],
+      "premios": ["Premier League Player of the Season"],
+      "goles": 150
+    },
+    {
+      "nombre": "Mohamed Salah",
+      "edad": 29,
+      "altura": "1.75m",
+      "peso": "71kg",
+      "clubes": ["El Mokawloon", "Basel", "Chelsea", "Fiorentina", "Roma", "Liverpool"],
+      "premios": ["Premier League Golden Boot"],
+      "goles": 200
+    },
+    {
+      "nombre": "Sadio Mane",
+      "edad": 29,
+      "altura": "1.75m",
+      "peso": "69kg",
+      "clubes": ["Metz", "Red Bull Salzburg", "Southampton", "Liverpool"],
+      "premios": ["Premier League Golden Boot"],
+      "goles": 150
+    },
+    {
+      "nombre": "Virgil van Dijk",
+      "edad": 30,
+      "altura": "1.93m",
+      "peso": "92kg",
+      "clubes": ["Groningen", "Celtic", "Southampton", "Liverpool"],
+      "premios": ["UEFA Men's Player of the Year"],
+      "goles": 50
+    },
+    {
+      "nombre": "Paul Pogba",
+      "edad": 28,
+      "altura": "1.91m",
+      "peso": "84kg",
+      "clubes": ["Le Havre", "Manchester United", "Juventus"],
+      "premios": ["Golden Boy"],
+      "goles": 100
+    },
+    {
+      "nombre": "Eden Hazard",
+      "edad": 30,
+      "altura": "1.75m",
+      "peso": "74kg",
+      "clubes": ["Lille", "Chelsea", "Real Madrid"],
+      "premios": ["PFA Players' Player of the Year"],
+      "goles": 150
+    },
+    {
+      "nombre": "Harry Kane",
+      "edad": 27,
+      "altura": "1.88m",
+      "peso": "86kg",
+      "clubes": ["Tottenham Hotspur", "Leyton Orient", "Millwall", "Norwich City", "Leicester City"],
+      "premios": ["Premier League Golden Boot"],
+      "goles": 200
+    },
+    {
+      "nombre": "Antoine Griezmann",
+      "edad": 30,
+      "altura": "1.76m",
+      "peso": "73kg",
+      "clubes": ["Real Sociedad", "Atletico Madrid", "Barcelona"],
+      "premios": ["La Liga Best Player"],
+      "goles": 200
+    },
+    {
+      "nombre": "Luis Suarez",
+      "edad": 34,
+      "altura": "1.82m",
+      "peso": "86kg",
+      "clubes": ["Nacional", "Groningen", "Ajax", "Liverpool", "Barcelona", "Atletico Madrid"],
+      "premios": ["Pichichi Trophy"],
+      "goles": 450
+    },
+    {
+      "nombre": "Sergio Aguero",
+      "edad": 33,
+      "altura": "1.73m",
+      "peso": "70kg",
+      "clubes": ["Independiente", "Atletico Madrid", "Manchester City", "Barcelona"],
+      "premios": ["Premier League Golden Boot"],
+      "goles": 400
+    },
+    {
+      "nombre": "Karim Benzema",
+      "edad": 33,
+      "altura": "1.85m",
+      "peso": "81kg",
+      "clubes": ["Lyon", "Real Madrid"],
+      "premios": ["La Liga Best Player"],
+      "goles": 350
+    },
+    {
+      "nombre": "Gareth Bale",
+      "edad": 31,
+      "altura": "1.85m",
+      "peso": "82kg",
+      "clubes": ["Southampton", "Tottenham Hotspur", "Real Madrid"],
+      "premios": ["PFA Players' Player of the Year"],
+      "goles": 200
+    },
+    {
+      "nombre": "Philippe Coutinho",
+      "edad": 29,
+      "altura": "1.72m",
+      "peso": "68kg",
+      "clubes": ["Vasco da Gama", "Inter Milan", "Liverpool", "Barcelona", "Bayern Munich"],
+      "premios": ["Copa America Best Player"],
+      "goles": 150
+    },
+    {
+      "nombre": "Lautaro Martinez",
+      "edad": 24,
+      "altura": "1.74m",
+      "peso": "75kg",
+      "clubes": ["Racing Club", "Inter Milan"],
+      "premios": ["Serie A Best Young Player"],
+      "goles": 100
+    },
+    {
+      "nombre": "Romelu Lukaku",
+      "edad": 28,
+      "altura": "1.91m",
+      "peso": "93kg",
+      "clubes": ["Anderlecht", "Chelsea", "West Bromwich Albion", "Everton", "Manchester United", "Inter Milan", "Chelsea"],
+      "premios": ["Serie A MVP"],
+      "goles": 300
+    },
+    {
+      "nombre": "Erling Haaland",
+      "edad": 21,
+      "altura": "1.94m",
+      "peso": "88kg",
+      "clubes": ["Bryne", "Molde", "Red Bull Salzburg", "Borussia Dortmund"],
+      "premios": ["Golden Boy"],
+      "goles": 150
+    },
+    {
+      "nombre": "Jadon Sancho",
+      "edad": 21,
+      "altura": "1.80m",
+      "peso": "74kg",
+      "clubes": ["Manchester City", "Borussia Dortmund", "Manchester United"],
+      "premios": ["Bundesliga Player of the Month"],
+      "goles": 100
+    },
+    {
+      "nombre": "Raheem Sterling",
+      "edad": 26,
+      "altura": "1.70m",
+      "peso": "69kg",
+      "clubes": ["Liverpool", "Manchester City"],
+      "premios": ["FWA Footballer of the Year"],
+      "goles": 150
+    },
+    {
+      "nombre": "Marcus Rashford",
+      "edad": 23,
+      "altura": "1.85m",
+      "peso": "75kg",
+      "clubes": ["Manchester United"],
+      "premios": ["PFA Community Champion"],
+      "goles": 100
+    },
+    {
+      "nombre": "Bruno Fernandes",
+      "edad": 26,
+      "altura": "1.79m",
+      "peso": "69kg",
+      "clubes": ["Novara", "Udinese", "Sampdoria", "Sporting CP", "Manchester United"],
+      "premios": ["Premier League Player of the Month"],
+      "goles": 150
+    },
+    {
+      "nombre": "Bernardo Silva",
+      "edad": 26,
+      "altura": "1.73m",
+      "peso": "68kg",
+      "clubes": ["Benfica", "Monaco", "Manchester City"],
+      "premios": ["PFA Team of the Year"],
+      "goles": 100
+    },
+    {
+      "nombre": "Joshua Kimmich",
+      "edad": 26,
+      "altura": "1.76m",
+      "peso": "73kg",
+      "clubes": ["RB Leipzig", "Bayern Munich"],
+      "premios": ["UEFA Champions League Squad of the Season"],
+      "goles": 50
+    },
+    {
+      "nombre": "Toni Kroos",
+      "edad": 31,
+      "altura": "1.83m",
+      "peso": "78kg",
+      "clubes": ["Bayern Munich", "Bayer Leverkusen", "Real Madrid"],
+      "premios": ["FIFA FIFPro World XI"],
+      "goles": 100
+    },
+    {
+      "nombre": "Thomas Muller",
+      "edad": 31,
+      "altura": "1.85m",
+      "peso": "75kg",
+      "clubes": ["Bayern Munich"],
+      "premios": ["World Cup Golden Boot"],
+      "goles": 250
+    },
+    {
+      "nombre": "Gerard Pique",
+      "edad": 34,
+      "altura": "1.94m",
+      "peso": "85kg",
+      "clubes": ["Barcelona", "Manchester United", "Zaragoza"],
+      "premios": ["La Liga Best Defender"],
+      "goles": 50
+    },
+    {
+      "nombre": "Gerard Moreno",
+      "edad": 29,
+      "altura": "1.80m",
+      "peso": "77kg",
+      "clubes": ["Villarreal", "Mallorca", "Espanyol"],
+      "premios": ["Europa League Player of the Season"],
+      "goles": 150
+    },
+    {
+      "nombre": "Mason Mount",
+      "edad": 22,
+      "altura": "1.80m",
+      "peso": "74kg",
+      "clubes": ["Chelsea", "Vitesse", "Derby County"],
+      "premios": ["Chelsea Player of the Year"],
+      "goles": 50
+    },
+    {
+      "nombre": "Kai Havertz",
+      "edad": 22,
+      "altura": "1.89m",
+      "peso": "82kg",
+      "clubes": ["Bayer Leverkusen", "Chelsea"],
+      "premios": ["Bundesliga Team of the Season"],
+      "goles": 50
+    },
+    {
+      "nombre": "Christian Pulisic",
+      "edad": 22,
+      "altura": "1.73m",
+      "peso": "70kg",
+      "clubes": ["Borussia Dortmund", "Chelsea"],
+      "premios": ["U.S. Soccer Male Player of the Year"],
+      "goles": 50
+    },
+    {
+      "nombre": "Hakim Ziyech",
+      "edad": 28,
+      "altura": "1.81m",
+      "peso": "70kg",
+      "clubes": ["Heerenveen", "Twente", "Ajax", "Chelsea"],
+      "premios": ["Dutch Footballer of the Year"],
+      "goles": 100
+    },
+    {
+      "nombre": "Frenkie de Jong",
+      "edad": 24,
+      "altura": "1.80m",
+      "peso": "74kg",
+      "clubes": ["Willem II", "Ajax", "Barcelona"],
+      "premios": ["Eredivisie Player of the Season"],
+      "goles": 50
+    },
+    {
+      "nombre": "Matthijs de Ligt",
+      "edad": 22,
+      "altura": "1.89m",
+      "peso": "89kg",
+      "clubes": ["Ajax", "Juventus"],
+      "premios": ["Golden Boy"],
+      "goles": 50
+    },
+    {
+      "nombre": "Jan Oblak",
+      "edad": 28,
+      "altura": "1.88m",
+      "peso": "87kg",
+      "clubes": ["Olimpija", "Benfica", "Atletico Madrid"],
+      "premios": ["La Liga Best Goalkeeper"],
+      "goles": 0
+    },
+    {
+      "nombre": "Marc-Andre ter Stegen",
+      "edad": 29,
+      "altura": "1.87m",
+      "peso": "85kg",
+      "clubes": ["Borussia Monchengladbach", "Barcelona"],
+      "premios": ["Zamora Trophy"],
+      "goles": 0
+    },
+    {
+      "nombre": "Alisson Becker",
+      "edad": 28,
+      "altura": "1.91m",
+      "peso": "91kg",
+      "clubes": ["Internacional", "Roma", "Liverpool"],
+      "premios": ["Best FIFA Goalkeeper"],
+      "goles": 0
+    },
+    {
+      "nombre": "Ederson",
+      "edad": 27,
+      "altura": "1.88m",
+      "peso": "89kg",
+      "clubes": ["Rio Ave", "Benfica", "Manchester City"],
+      "premios": ["Premier League Golden Glove"],
+      "goles": 0
+    },
+    {
+      "nombre": "Keylor Navas",
+      "edad": 34,
+      "altura": "1.85m",
+      "peso": "80kg",
+      "clubes": ["Saprissa", "Albacete", "Levante", "Real Madrid", "PSG"],
+      "premios": ["Best CONCACAF Player"],
+      "goles": 0
+    },
+    {
+      "nombre": "Hugo Lloris",
+      "edad": 34,
+      "altura": "1.88m",
+      "peso": "82kg",
+      "clubes": ["Nice", "Lyon", "Tottenham Hotspur"],
+      "premios": ["Ligue 1 Goalkeeper of the Year"],
+      "goles": 0
+    },
+    {
+      "nombre": "Samir Handanovic",
+      "edad": 37,
+      "altura": "1.93m",
+      "peso": "92kg",
+      "clubes": ["Domzale", "Udinese", "Treviso", "Lazio", "Rimini", "Inter Milan"],
+      "premios": ["Serie A Goalkeeper of the Year"],
+      "goles": 0
+    },
+    {
+      "nombre": "Gianluigi Donnarumma",
+      "edad": 22,
+      "altura": "1.96m",
+      "peso": "90kg",
+      "clubes": ["AC Milan", "PSG"],
+      "premios": ["Serie A Goalkeeper of the Year"],
+      "goles": 0
+    },
+    {
+      "nombre": "Thibaut Courtois",
+      "edad": 29,
+      "altura": "1.99m",
+      "peso": "96kg",
+      "clubes": ["Genk", "Chelsea", "Atletico Madrid", "Real Madrid"],
+      "premios": ["Golden Glove"],
+      "goles": 0
+    },
+    {
+      "nombre": "Gianluigi Buffon",
+      "edad": 43,
+      "altura": "1.92m",
+      "peso": "92kg",
+      "clubes": ["Parma", "Juventus", "PSG"],
+      "premios": ["IFFHS World's Best Goalkeeper"],
+      "goles": 0
+    }
+  ]
+}

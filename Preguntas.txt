@@ -1,0 +1,19 @@
+Preguntas
+-Quisiera una lista de los 4 jugadores más viejos
+
+-Quisiera una lista de los 4 jugadores más jóvenes
+
+-¿podrías darme una lista de los 10 jugadores con más goles?
+
+-me puedes decir los goles y los equipos de Lionel Messi
+
+-quiero saber la estatura y la edad de Keylor Navas
+
+-quiero saber quienes han jugado en el Real Madrid
+
+-Me puedes decir los goles de Lionel Messi y los goles de Cristiano Ronaldo
+
+-quiero saber los goles y clubes de Kylian Mbappe
+
+-me puedes comparar los goles de Robert Lewandowski y Luis Suarez
+
